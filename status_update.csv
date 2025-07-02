@@ -1,0 +1,11 @@
+status_id,user_id,status_media,status_text,last_update
+1,1,1,"Feeling happy today!",2023-01-01
+2,2,2,"Enjoying the weekend vibes.",2023-01-02
+3,3,3,"Exploring new adventures!",2023-01-03
+4,4,NULL,"Taking some time off.",2023-01-04
+5,5,4,"Music is my therapy.",2023-01-05
+6,6,5,"Feeling productive today!",2023-01-06
+7,7,6,"Celebrating a special day!",2023-01-07
+8,8,7,"Movie night with friends!",2023-01-08
+9,9,8,"Exploring the city streets.",2023-01-09
+10,10,9,"Prepping for an upcoming event.",2023-01-10

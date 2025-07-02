@@ -1,0 +1,21 @@
+message_id,sender_id,receiver_id,last_update,created_at,message_text,message_media,seen,delivered
+1,1,2,2023-01-01,2023-01-01,"Hey! how are you?",,1,1
+2,2,1,2023-01-01,2023-01-01,"Im good, thanks!",1,1,1
+3,3,1,2023-01-02,2023-01-02,"Whats up?",,0,1
+4,1,3,2023-01-02,2023-01-02,"Not much, just chilling.",,1,1
+5,2,3,2023-01-03,2023-01-03,"Lets catch up soon!",2,0,1
+6,3,2,2023-01-03,2023-01-03,"Definitely!",,0,0
+7,4,5,2023-01-04,2023-01-04,"How have you been?",,0,0
+8,5,4,2023-01-04,2023-01-04,"I've been busy with work.",3,0,0
+9,6,5,2023-01-05,2023-01-05,"Long time no see!",,0,0
+10,5,6,2023-01-05,2023-01-05,"I know, we should hang out.",,0,0
+11,7,8,2023-01-06,2023-01-06,"What are your plans for the weekend?",,0,0
+12,8,7,2023-01-06,2023-01-06,"Thinking of a movie night.",4,0,0
+13,9,10,2023-01-07,2023-01-07,"Any recommendations for a good book?",,0,0
+14,10,9,2023-01-07,2023-01-07,"How about some classic literature?",5,0,0
+15,11,12,2023-01-08,2023-01-08,"Planning any trips?",,0,0
+16,12,11,2023-01-08,2023-01-08,"Yes, exploring some hiking trails.",,0,0
+17,1,4,2023-01-09,2023-01-09,"We should hang out sometime.",,0,0
+18,4,1,2023-01-09,2023-01-09,"Definitely! Let's plan something.",,0,0
+19,2,5,2023-01-10,2023-01-10,"Do you have any travel plans?",,0,0
+20,5,2,2023-01-10,2023-01-10,"Not yet, but I'm thinking of a beach trip.",6,0,0

@@ -1,0 +1,13 @@
+user_id,user_name,phone_number,profile_picture,user_status,user_about,last_seen
+1,Alice,+1234567890,1,Available,"Hey there! I love chatting.",1
+2,Bob,+1987654321,2,Busy,"Busy with work.",0
+3,Charlie,+1112223333,3,Available,"Lets connect!",1
+4,David,+4445556666,4,Away,"Out for a vacation.",0
+5,Eva,+7778889999,5,Available,"Enjoying life!",1
+6,Frank,+6665554444,6,Busy,"In a meeting.",0
+7,Grace,+3332221111,7,Available,"Music lover.",1
+8,Hannah,+9998887777,8,Away,"Taking a break.",0
+9,Ian,+5556667777,9,Available,"Exploring new things.",1
+10,Jack,+1231231234,10,Busy,"Focused on studies.",0
+11,Katherine,+3213214321,3,Available,"Bookworm alert!",1
+12,Liam,+9991113332,4,Away,"Gone for a walk.",0

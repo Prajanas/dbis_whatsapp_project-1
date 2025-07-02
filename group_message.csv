@@ -1,0 +1,21 @@
+message_id,sender_id,group_id,last_update,created_at,message_text,message_media
+1,1,1,2023-10-10,2023-10-10,"Hello everyone!",1
+2,2,1,2023-10-10,2023-10-10,"Good morning!",NULL
+3,3,1,2023-10-10,2023-10-10,"How is everyone doing today?",2
+4,4,1,2023-10-11,2023-10-11,"Im excited about the upcoming event.",NULL
+5,1,2,2023-10-12,2023-10-12,"Welcome to the new group!",3
+6,3,2,2023-10-12,2023-10-12,"Glad to be here!",NULL
+7,5,2,2023-10-12,2023-10-12,"Any plans for the weekend?",NULL
+8,2,3,2023-10-13,2023-10-13,"Lets discuss the project details.",4
+9,4,3,2023-10-13,2023-10-13,"I have some suggestions.",NULL
+10,6,3,2023-10-13,2023-10-13,"We should start working on it soon.",5
+11,1,4,2023-10-14,2023-10-14,"Happy birthday to our group member!",6
+12,3,4,2023-10-14,2023-10-14,"Best wishes!",NULL
+13,5,4,2023-10-14,2023-10-14,"Lets celebrate!",NULL
+14,7,4,2023-10-15,2023-10-15,"Ill arrange a surprise party.",7
+15,2,5,2023-10-16,2023-10-16,"Discussing the upcoming event details.",8
+16,4,5,2023-10-16,2023-10-16,"Who will manage the decorations?",NULL
+17,6,5,2023-10-16,2023-10-16,"We need volunteers for the event.",9
+18,8,5,2023-10-16,2023-10-16,"I can help with the arrangements.",NULL
+19,10,5,2023-10-17,2023-10-17,"Lets decide the schedule.",10
+20,12,5,2023-10-17,2023-10-17,"Ill take care of the logistics.",NULL

@@ -1,0 +1,13 @@
+user_id,sound_notification,last_seen_visibility,profile_picture_visibility,read_receipt,dark_mode,app_language
+1,1,1,1,1,1,English
+2,1,1,0,1,0,Spanish
+3,1,1,1,1,1,French
+4,0,1,1,0,0,Hindi
+5,1,1,1,1,1,German
+6,0,1,0,0,0,English
+7,1,1,1,1,1,English
+8,0,1,1,0,0,Hindi
+9,1,1,1,1,1,English
+10,1,1,0,1,0,English
+11,1,1,1,1,1,French
+12,0,1,1,0,0,English

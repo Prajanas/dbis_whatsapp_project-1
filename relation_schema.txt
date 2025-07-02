@@ -1,0 +1,68 @@
+// user_settings
+user_id (PK)
+sound_notification
+last_seen_visibility
+profile_picture_visibility
+read_receipt
+dark_mode
+app_language
+
+// media
+media_id (PK)
+media_type
+media_url
+
+// user_table
+user_id (PK)
+user_name
+phone_number
+profile_picture (FK references media)
+user_status
+user_about
+last_seen
+
+// group_member
+user_id (FK references user)
+group_id (FK references group)
+user_role
+joined_date
+
+// personal_message
+message_id (PK)
+sender_id (FK references user)
+receiver_id (FK references user)
+last_update
+created_at
+message_text
+seen
+delivered
+message_media (FK references media)
+
+// user_contacts
+user_id (FK references user)
+person_id (FK references user)
+person_name
+isBlocked
+
+// group_table
+group_id (PK)
+group_name
+group_picture (FK references media)
+creation_date
+group_description
+
+// status_update
+status_id (PK)
+user_id (FK references user)
+status_text
+status_media (FK references media)
+last_update
+
+// group_message
+message_id (PK)
+sender_id (FK references user)
+group_id (FK references group)
+last_update
+created_at
+message_text
+message_media (FK references media)

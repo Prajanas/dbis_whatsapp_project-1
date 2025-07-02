@@ -1,0 +1,8 @@
+Topic: Whatsapp Database Design
+1) ER Diagram - Relational Schema - Implementation as database - Tushar
+2) Populate data - prajana
+3) Finding common queries - prajwal
+4) Implementation of commonly used queries in sql with python - sujit and aman
+
+
+https://dbis-whatsapp-project.vercel.app/
